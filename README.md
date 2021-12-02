@@ -3,7 +3,7 @@
 ### 🌎 Head of Mobile Development in worldee.com 
 
 
-[![SedlarDavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SedlarDavid&count_private=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+[![SedlarDavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SedlarDavid&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
