@@ -1,6 +1,7 @@
 ## 📱 Mobile App Developer, Flutter
+## 🖥️ Backend Developer, .NET
 
-### 🌎 Head of Mobile Development in worldee.com 
+### 🌎Backend developer in cngroup.dk 
 
 
 [![SedlarDavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SedlarDavid&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
