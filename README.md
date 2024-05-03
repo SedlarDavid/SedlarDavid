@@ -1,7 +1,6 @@
 ## Hi, I am David
 
-Right now i am working as .NET Developer in company [CNGroup.dk](https://cngroup.dk). But it's not all i can do!
-In the past few years i was *Head of Mobile Development* in [worldee.com](https://worldee.com), where we have built the best travel app entirely in Flutter.
+Right now i am working as CTO in company [Openvibe](https://openvibe.social/).
 
 So my two main focuses are Mobile Development and Backend Development.
 
