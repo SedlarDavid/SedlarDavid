@@ -24,8 +24,7 @@ I am very interested in interesting projects with great ideas so feel free to co
 Checkout my [LinkedIn](https://www.linkedin.com/in/sedlar-david/) for further references.
 
 
-[![SedlarDavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=SedlarDavid&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![SedlarDavid's GitHub stats](https://github-stats-extended.vercel.app/api?username=SedlarDavid&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SedlarDavid/SedlarDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
