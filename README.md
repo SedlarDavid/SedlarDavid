@@ -1,6 +1,6 @@
 ## Hi, I am David
 
-Right now i am working as CTO in company [Openvibe](https://openvibe.social/).
+Right now i am working as Software Developer in company [insightbase](https://www.insightbase.cz/).
 
 So my two main focuses are Mobile Development and Backend Development.
 
